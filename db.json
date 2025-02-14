@@ -1,0 +1,204 @@
+{
+  "gitmojis": [
+    {
+      "emoji": "✨",
+      "entity": "✨",
+      "code": ":sparkles:",
+      "description": "新規機能を実装した際に使用します",
+      "name": "sparkles",
+      "semver": null
+    },
+    {
+      "emoji": "⚡️",
+      "entity": "⚡️",
+      "code": ":zap:",
+      "description": "パフォーマンスの改善やコードの最適化をした際に使用します",
+      "name": "zap",
+      "semver": null
+    },
+    {
+      "emoji": "🔥",
+      "entity": "🔥",
+      "code": ":fire:",
+      "description": "コードやファイルを削除した際に使用します",
+      "name": "fire",
+      "semver": null
+    },
+    {
+      "emoji": "🐛",
+      "entity": "🐛",
+      "code": ":bug:",
+      "description": "バグを修正した際に使用します",
+      "name": "bug",
+      "semver": null
+    },
+    {
+      "emoji": "🚑",
+      "entity": "🚑",
+      "code": ":ambulance:",
+      "description": "重大なバグを緊急で修正した際に使用します",
+      "name": "ambulance",
+      "semver": null
+    },
+    {
+      "emoji": "🩹",
+      "entity": "🩹",
+      "code": ":adhesive_bandage:",
+      "description": "軽微な問題やタイプミスを修正した際に使用します",
+      "name": "adhesive_bandage",
+      "semver": null
+    },
+    {
+      "emoji": "♻️",
+      "entity": "♻️",
+      "code": ":recycle:",
+      "description": "コードのリファクタリングやコード品質の改善をした際に使用します",
+      "name": "recycle",
+      "semver": null
+    },
+    {
+      "emoji": "💄",
+      "entity": "💄",
+      "code": ":lipstick:",
+      "description": "UIやスタイルの変更をした際に使用します",
+      "name": "lipstick",
+      "semver": null
+    },
+    {
+      "emoji": "📝",
+      "entity": "📝",
+      "code": ":memo:",
+      "description": "ドキュメントを追加・更新した際に使用します",
+      "name": "memo",
+      "semver": null
+    },
+    {
+      "emoji": "🔧",
+      "entity": "🔧",
+      "code": ":wrench:",
+      "description": "設定ファイルを変更した際に使用します",
+      "name": "wrench",
+      "semver": null
+    },
+    {
+      "emoji": "🔒",
+      "entity": "🔒",
+      "code": ":lock:",
+      "description": "セキュリティ関連の修正や改善をした際に使用します",
+      "name": "lock",
+      "semver": null
+    },
+    {
+      "emoji": "⬆️",
+      "entity": "⬆️",
+      "code": ":arrow_up:",
+      "description": "依存パッケージをアップデートした際に使用します",
+      "name": "arrow_up",
+      "semver": null
+    },
+    {
+      "emoji": "📦",
+      "entity": "📦",
+      "code": ":package:",
+      "description": "ビルド成果物や配布用パッケージの構成を変更した際に使用します",
+      "name": "package",
+      "semver": null
+    },
+    {
+      "emoji": "🚀",
+      "entity": "🚀",
+      "code": ":rocket:",
+      "description": "本番環境へのデプロイを実施した際に使用します",
+      "name": "rocket",
+      "semver": null
+    },
+    {
+      "emoji": "✅",
+      "entity": "✅",
+      "code": ":white_check_mark:",
+      "description": "テストを追加・更新した際に使用します",
+      "name": "white_check_mark",
+      "semver": null
+    },
+    {
+      "emoji": "🚧",
+      "entity": "🚧",
+      "code": ":construction:",
+      "description": "作業途中のコミットの際に使用します（WIP）",
+      "name": "construction",
+      "semver": null
+    },
+    {
+      "emoji": "🌐",
+      "entity": "🌐",
+      "code": ":globe_with_meridians:",
+      "description": "国際化・多言語化対応の作業をした際に使用します",
+      "name": "globe_with_meridians",
+      "semver": null
+    },
+    {
+      "emoji": "🎉",
+      "entity": "🎉",
+      "code": ":tada:",
+      "description": "プロジェクトの開始や記念すべき変更の際に使用します",
+      "name": "tada",
+      "semver": null
+    },
+    {
+      "emoji": "🔍",
+      "entity": "🔍",
+      "code": ":mag:",
+      "description": "SEOや検索機能の改善をした際に使用します",
+      "name": "mag",
+      "semver": null
+    },
+    {
+      "emoji": "💡",
+      "entity": "💡",
+      "code": ":bulb:",
+      "description": "新しいアイデアやコードのコメントを追加した際に使用します",
+      "name": "bulb",
+      "semver": null
+    },
+    {
+      "emoji": "🔥",
+      "entity": "🔥",
+      "code": ":fire:",
+      "description": "不要なコードやファイルを削除した際に使用します",
+      "name": "fire",
+      "semver": null
+    },
+    {
+      "emoji": "🚚",
+      "entity": "🚚",
+      "code": ":truck:",
+      "description": "ファイルやリソースを移動・名前変更した際に使用します",
+      "name": "truck",
+      "semver": null
+    },
+    {
+      "emoji": "🗃️",
+      "entity": "🗃️",
+      "code": ":card_file_box:",
+      "description": "データベース関連の変更をした際に使用します",
+      "name": "card_file_box",
+      "semver": null
+    },
+    {
+      "emoji": "👷",
+      "entity": "👷",
+      "code": ":construction_worker:",
+      "description": "CI/CDの構築や変更をした際に使用します",
+      "name": "construction_worker",
+      "semver": null
+    },
+    {
+      "emoji": "🔊",
+      "entity": "🔊",
+      "code": ":loud_sound:",
+      "description": "ログを追加・更新した際に使用します",
+      "name": "loud_sound",
+      "semver": null
+    }
+  ]
+}
